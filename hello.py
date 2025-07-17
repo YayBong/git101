@@ -1,2 +1,1 @@
-print('Hello DevOps') #First commit
-print('Add new line')
+print('Hello DevOps')
